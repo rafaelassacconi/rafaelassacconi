@@ -1,17 +1,29 @@
 <h1>Rafaela S. Sacconi</h1>
 
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left">
+      <strong>Engineering Manager @ Nubank</strong>
+    </td>
+    <td align="right">
+      <a href="https://www.linkedin.com/in/rafaelassacconi">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 👋 About
 
-I've spent 15+ years building software, the last four leading the people who build it.
+I’ve spent 15+ years building software, the last four leading the people who build it.
 
-Today I manage an engineer team at Nubank. Before moving into management
-I was a Lead and Senior Engineer here, designing the architecture behind personalization
-and search and benefits experiences.
+Today I lead an engineering team at Nubank. Before moving into engineering management, I worked as both Senior and Lead Software Engineer, where I helped design the architecture behind personalization, search and benefits experiences.
 
-My work sits where technical direction meets people development — architecture reviews and
-career conversations, roadmaps and one-on-ones. I like both halves.
+I’m particularly interested in platform engineering, AI-assisted software development, distributed systems and helping engineers grow into technical leaders.
+
+My work sits where technical direction meets people development, architecture reviews and career conversations, roadmaps and one-on-ones. I enjoy connecting technology, product strategy and engineering growth to build teams that deliver meaningful software.
 
 ---
 
@@ -34,8 +46,7 @@ career conversations, roadmaps and one-on-ones. I like both halves.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux"/>
 </p>
 
-Distributed services · Event-driven architecture · Microservices · Regulated environments
-· Personalization & recommendation systems · High-traffic e-commerce
+Regulated environments · AI & productivity tooling · Personalization & recommendation systems · High-traffic e-commerce · Distributed services · Event-driven architecture · Microservices · Travel systems & integrations · Business process automation · Data migrations
 
 ---
 
@@ -46,8 +57,7 @@ Distributed services · Event-driven architecture · Microservices · Regulated 
 - **Coach & organizer** — [Django Girls São Paulo](https://djangogirls.org/saopaulo) (2017–2020)<br/>
   Free Python and Django workshops for women writing their first lines of code.
 
-Currently studying **Neuroscience and Applied Psychology**, mostly
-because how people learn and decide turns out to be the other half of engineering management.
+I’m currently **Neuroscience and Applied Psychology** because understanding how people learn and make decisions has become as interesting to me as building software.
 
 ---
 
