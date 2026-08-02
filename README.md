@@ -19,9 +19,9 @@
 
 I’ve spent 15+ years building software, the last four leading the people who build it.
 
-Today I lead an engineering team at Nubank. Before moving into engineering management, I worked as both Senior and Lead Software Engineer, where I helped design the architecture behind personalization, search and benefits experiences.
+Today I lead an engineering team at Nubank. Before moving into engineering management, I worked as both Senior and Lead Software Engineer, where I designed the architecture behind personalization, search and benefits experiences.
 
-I’m particularly interested in platform engineering, AI-assisted software development, distributed systems and helping engineers grow into technical leaders.
+I’m particularly interested in distributed systems, platform engineering, AI-assisted software development, and helping engineers grow into technical leaders.
 
 My work sits where technical direction meets people development, architecture reviews and career conversations, roadmaps and one-on-ones. I enjoy connecting technology, product strategy and engineering growth to build teams that deliver meaningful software.
 
@@ -57,7 +57,7 @@ Regulated environments · AI & productivity tooling · Personalization & recomme
 - **Coach & organizer** — [Django Girls São Paulo](https://djangogirls.org/saopaulo) (2017–2020)<br/>
   Free Python and Django workshops for women writing their first lines of code.
 
-I’m currently **Neuroscience and Applied Psychology** because understanding how people learn and make decisions has become as interesting to me as building software.
+I’m currently studying **Neuroscience and Applied Psychology** because understanding how people learn and make decisions has become as interesting to me as building software.
 
 ---
 
